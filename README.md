@@ -1,25 +1,25 @@
 # IP-week-4
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+
+# {IP Week 4 Analysis}
+
+#### {This is an independent project to be carried out for assessment}, {28/5/2020}
+## By **{ Ted Askoye Samuel }**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{The objective of this report is to draw insights from a 9-day dataset across various
+cities in France. These insights will assist in processing the stations’ data to
+understand electric car usage over time within the City of Paris. }
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* A laptop and good internet connection
+*
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+{There are no known bugs. }
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+{Google Colaboratory, Github Account }
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+{For more information on the project contact the author on [tedsam10@gmail.com] .}
 ### LicenseMIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2020] [Ted Askoye Samuel]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
