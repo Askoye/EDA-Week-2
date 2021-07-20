@@ -1,4 +1,4 @@
-# IP Week 4 Analysis
+# EDA - Week 2 
 
 #### This is an independent project to be carried out for assessment, 28/5/2020
 ## Description
