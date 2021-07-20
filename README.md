@@ -1,6 +1,5 @@
-# EDA - Week 2 
+# Electric Car Sharing Company Project 
 
-#### This is an independent project to be carried out for assessment, 28/5/2020
 ## Description
 The objective of this report is to draw insights from a 9-day dataset across various
 cities in France. These insights will assist in processing the stations’ data to
