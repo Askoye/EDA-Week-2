@@ -1,13 +1,11 @@
-# IP-week-4
+# IP Week 4 Analysis
 
-# {IP Week 4 Analysis}
-
-#### {This is an independent project to be carried out for assessment}, {28/5/2020}
-## By **{ Ted Askoye Samuel }**
+#### This is an independent project to be carried out for assessment, 28/5/2020
 ## Description
-{The objective of this report is to draw insights from a 9-day dataset across various
+The objective of this report is to draw insights from a 9-day dataset across various
 cities in France. These insights will assist in processing the stations’ data to
-understand electric car usage over time within the City of Paris. }
+understand electric car usage over time within the City of Paris. 
+
 ## Setup/Installation Requirements
 * A laptop and good internet connection
 *
