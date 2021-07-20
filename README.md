@@ -7,7 +7,7 @@ understand electric car usage over time within the City of Paris.
 
 ## Setup/Installation Requirements
 * A laptop and good internet connection
-*
+
 ## Known Bugs
 {There are no known bugs. }
 ## Technologies Used
